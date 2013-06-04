@@ -1,4 +1,4 @@
-BUW-Secure-SMS
+**BUW-Secure-SMS**
 ***
 
 You additionally need two external Libraries:
