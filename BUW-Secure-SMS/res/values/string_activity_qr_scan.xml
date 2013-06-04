@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="qr_scan_btn_scan_text">Scan</string>
+    <string name="qr_scan_btn_scan_done_text">Scaning Done.</string>
+    <string name="qr_scan_label">Scan other QR Code or show your code to your contact.</string>
+    <string name="qr_scan_qr_code_hint">QR Code</string>
+    <string name="qr_scan_progress_dialog_message">Calculating huge primes</string>
+    
+</resources>

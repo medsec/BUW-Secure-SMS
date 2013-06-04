@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+  <EditTextPreference
+     android:key="name"
+     android:summary="@string/menu_name_summary"
+     android:title="@string/menu_name" />
+  <EditTextPreference
+     android:key="email"
+     android:summary="@string/menu_email_summary"
+     android:title="@string/menu_email" />
+  <EditTextPreference
+     android:key="phone"
+     android:summary="@string/menu_phone_summary"
+     android:title="@string/menu_phone" />
+  <SwitchPreference 
+     android:key="cleardb"
+     android:summary="@string/menu_clear_summary"
+     android:title="@string/menu_clear"/>
+  <EditTextPreference
+     android:key="autologofftime"
+     android:summary="@string/menu_autologoff_time_summary"
+     android:title="@string/menu_autologoff_time"
+     android:inputType="number" android:defaultValue="600"/>
+</PreferenceScreen>

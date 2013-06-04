@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="write_sms_input_hint">Type in your SMS.</string>
+    <string name="write_sms_btn_send">Send Message</string>
+    <string name="write_sms_btn_write">Write SMS</string>
+    <string name="write_sms_contact_message">SMS to:</string>
+    <string name="write_sms_input_remain_plural">characters remaining.</string>
+    <string name="write_sms_input_remain_singular">character remaining.</string>
+    <string name="write_sms_input_error">Unsupportet character!</string>
+    
+    
+</resources>

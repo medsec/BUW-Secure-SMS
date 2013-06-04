@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ContactDetailsActivity" >
+
+    <Button
+        android:id="@+id/contact_details_panic_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:text="@string/panic_button_text" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <!-- Name Fields -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="@string/contact_details_name_text" />
+
+        <EditText
+            android:id="@+id/contact_details_name_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:inputType="textPersonName" />
+
+        <!-- Email Fields -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="@string/contact_details_email_text" />
+
+        <EditText
+            android:id="@+id/contact_details_email_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:inputType="textEmailAddress" />
+
+        <!-- Phone Fields -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="@string/contact_details_phonenumber_text" />
+
+        <EditText
+            android:id="@+id/contact_details_phone_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:inputType="phone" />
+
+        <!-- Save Button -->
+
+        <Button
+            android:id="@+id/contact_details_save_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/contact_details_save_btn" />
+
+        <!-- New Keyexchange Button -->
+
+        <Button
+            android:id="@+id/contact_details_keyexchange_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/contact_details_new_key_btn" />
+    </LinearLayout>
+
+</LinearLayout>

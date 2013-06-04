@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="corrupted_messages_dialog_message_0_singular">There was </string>
+    <string name="corrupted_messages_dialog_message_0_plural">There were </string>
+    <string name="corrupted_messages_dialog_message_1_singular"> corrupted message.</string>
+    <string name="corrupted_messages_dialog_message_1_plural"> corrupted messages.</string>
+    <string name="corrupted_messages_dialog_title">Corrupted messages found.</string>
+    <string name="corrupted_messages_btn">OK</string>
+    
+</resources>

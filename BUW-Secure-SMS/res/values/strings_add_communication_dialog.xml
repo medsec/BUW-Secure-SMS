@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_communication_title">Add new contact</string>
+    <string name="add_communication_title_new_key">Exchange new key</string>
+    <string name="add_communication_option1">QR Code</string>
+    <string name="add_communication_option2">SMS</string>
+    <string name="add_communication_option3">Bluetooth</string>
+    <string name="add_communication_pos_btn">Add</string>
+    <string name="add_communication_pos_btn_new_key">Start</string>
+    <string name="add_communication_neg_btn">Cancel</string>
+    
+</resources>

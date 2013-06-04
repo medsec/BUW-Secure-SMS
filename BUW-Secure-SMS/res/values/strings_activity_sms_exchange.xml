@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_key_exchange_hint">Key exchange may be take a while. Two SMS will be send.</string>
+    <string name="sms_key_exchange_key_exchange_btn">Perform Key exchange</string>
+    <string name="sms_key_exchange_progress_text">Sending two sms...</string>
+    <string name="sms_key_exchange_alert_text_1">Sending your public key to </string>
+    <string name="sms_key_exchange_alert_text_2"> done. Please wait for his or her answer.</string>
+    <string name="sms_key_exchange_alert_title">Sending Key done.</string>
+    <string name="sms_key_exchange_alert_received_title">Received Key</string>
+    <string name="sms_key_exchange_alert_received_text_1">Received public key from </string>
+    <string name="sms_key_exchange_alert_received_text_2">. For sending your own key, fill in all contact details and press the </string>
+    <string name="sms_key_exchange_alert_received_text_3">button.</string>
+    
+    <string name="sms_key_exchange_alert_send_own_title">Keyexchange successful</string>
+    <string name="sms_key_exchange_alert_send_own_text_1">Sending own key done.</string>
+    <string name="sms_key_exchange_alert_send_own_text_2">Call your contact and compare the number:</string>
+    <string name="sms_key_exchange_alert_send_own_text_3">Are the numbers equal?</string>
+    
+    <string name="sms_key_exchange_alert_done_text_1">Keyexchange with</string>
+    <string name="sms_key_exchange_alert_done_text_2">was successfully done.</string>
+    <string name="sms_key_exchange_alert_done_text_3">To confirm the key, call the contact and compare the number:</string>
+    <string name="sms_key_exchange_alert_done_text_4">Are the numbers equal?</string>
+    
+    <string name="sms_key_exchange_key_error">Error!</string>
+    
+    <string name="sms_key_exchange_alert_btn">OK</string>
+    <string name="sms_key_exchange_alert_pos_btn">Yes</string>
+    <string name="sms_key_exchange_alert_neg_btn">No</string>
+
+</resources>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/first_start_welcome_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_message"/>
+    <TextView 
+        android:id="@+id/first_start_hint_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_start_hint"/>
+    <EditText 
+        android:id="@+id/first_start_password_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="@string/first_start_edit_hint"/>
+    <TextView 
+        android:id="@+id/first_start_hint_text_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_start_hint_2"/>
+    <EditText 
+        android:id="@+id/first_start_password_input_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:hint="@string/first_start_edit_hint"/>
+    
+    <ProgressBar 
+        android:id="@+id/first_start_password_progress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        style="@android:style/Widget.ProgressBar.Horizontal"/>
+    
+    <!-- User Name Input -->
+    <TextView 
+        android:id="@+id/first_start_name_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_start_name_text"/>
+    <EditText 
+        android:id="@+id/first_start_name_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textCapWords"
+        android:hint="@string/first_start_name_hint"/>
+    
+    <!-- User mobile phone number input -->
+    <TextView 
+        android:id="@+id/first_start_phone_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_start_phone_text"/>
+    <EditText 
+        android:id="@+id/first_start_phone_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:hint="@string/first_start_phone_hint"/>
+    
+    <TextView 
+        android:id="@+id/first_start_email_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_start_name_text"/>
+    <EditText 
+        android:id="@+id/first_start_email_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:hint="@string/first_start_email_hint"/>
+    
+    <Button
+        android:id="@+id/first_start_register_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/first_start_button"/>
+    
+
+</LinearLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_btn_read_sms">Read SMS</string>
+    <string name="main_btn_write_sms">Write SMS</string>
+    <string name="main_btn_manage_contacts">Manage Contacts</string>
+    <string name="main_btn_logoff">Logoff</string>
+    
+    <!-- Export Dialog -->
+    <string name="main_export_dialog_title">Export Database</string>
+    <string name="main_export_dialog_message">Export Database to:</string>
+    <string name="main_export_dialog_btn_pos">Export</string>
+    <string name="main_export_dialog_btn_neg">Cancel</string>
+    <string name="main_export_dialog_error_folder">Can not create folder </string>
+    <string name="main_export_dialog_progress_title">Copy Database</string>
+    
+    <!-- Import Dialog -->
+    <string name="main_import_dialog_title">Import Database</string>
+    <string name="main_import_dialog_message_1">Import Database from:</string>
+    <string name="main_import_dialog_message_2">Attention! This can not be undone. All data will be overwritten.</string>
+    <string name="main_import_dialog_message_3">Please enter your password:</string>
+    <string name="main_import_dialog_btn_pos">Import</string>
+    <string name="main_import_dialog_btn_neg">Cancel</string>
+    <string name="main_import_dialog_error_folder_1">File</string>
+    <string name="main_import_dialog_error_folder_2">not found!</string>
+        <string name="main_import_dialog_error_password">Password was not correct or database was corrupted!</string>
+    
+</resources>

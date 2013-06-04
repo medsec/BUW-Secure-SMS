@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_contacts_found_dialog_message">Do you want to add one?</string>
+    <string name="no_contacts_found_dialog_title">No contacts found.</string>
+    <string name="no_contacts_found_dialog_positive_btn">Yes</string>
+    <string name="no_contacts_found_dialog_negative_btn">No</string>
+    
+    <!-- Contacts list item strings -->
+    <string name="contact_list_item_exchange_accepted">Key exchange done.</string>
+    <string name="contact_list_item_exchange_not_accepted">Key was not accepted yet.</string>
+    <string name="contact_list_item_exchange_waiting">Waiting for foreign key.</string>
+  	
+</resources>

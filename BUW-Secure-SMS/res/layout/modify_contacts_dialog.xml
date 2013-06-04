@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+    
+    <Button
+            android:id="@+id/modify_dialog_add_contact_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/modify_contacts_dialog_add_btn_text" />
+    
+    <Button
+            android:id="@+id/modify_dialog_modify_contact_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/modify_contacts_dialog_modify_btn_text" />
+    
+    <Button
+            android:id="@+id/modify_dialog_remove_contact_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/modify_contacts_dialog_remove_btn_text" />
+    
+    <Button
+            android:id="@+id/modify_dialog_accept_contact_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"/>
+    
+
+</LinearLayout>

@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Strings related to first start activity -->
+    <string name="welcome_message">Welcome to EncryptSMS App. Some more words...</string>
+    <string name="first_start_hint">Please enter your password.</string>
+    <string name="first_start_hint_2">Please reenter your password.</string>
+    <string name="first_start_edit_hint">Your new password.</string>
+    <string name="first_start_button">Register!</string>
+    <string name="first_start_error_register">Your passwords do not fit to each other.</string>
+    <string name="first_start_error_register_length">Your passwords length do not fit to each other.</string>
+    <string name="first_start_name_text">Name</string>
+    <string name="first_start_name_hint">your name</string>
+    <string name="first_start_phone_text">Phone</string>
+    <string name="first_start_phone_hint">your phone</string>
+    <string name="first_start_email_text">Email</string>
+    <string name="first_start_email_hint">your email</string>
+    
+    <string name="first_start_progress_dialog_message">Creating database ...</string>
+
+
+</resources>

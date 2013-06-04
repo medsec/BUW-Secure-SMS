@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="read_sms_chose_label">Choose conversation</string>
+    <string name="read_sms_dialog_title" >Do you want to delete the conversation?</string>
+    <string name="read_sms_dialog_btn_pos" >Yes</string>
+    <string name="read_sms_dialog_btn_neg" >No</string>
+</resources>

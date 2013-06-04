@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept_key_dialog_message_part1">Please call your contact and comparet the number:</string>
+    <string name="accept_key_dialog_message_part2">Are both numbers equal?</string>
+    <string name="accept_key_dialog_pos_btn">Yes</string>
+    <string name="accept_key_dialog_neg_btn">No</string>
+</resources>

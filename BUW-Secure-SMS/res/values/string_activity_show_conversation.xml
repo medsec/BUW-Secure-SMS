@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="show_conversation_contact_btn_send" >Send a message</string>
+    
+    <string name="sms_details_dialog_title" >Do you want to delete the message?</string>
+    <string name="sms_details_dialog_date" >Date:</string>
+    <string name="sms_details_dialog_state" >State:</string>
+    <string name="sms_details_dialog_btn_pos" >Yes</string>
+    <string name="sms_details_dialog_btn_neg" >No</string>
+    <string-array name="sms_details_dialog_states">
+        <item name="0">outbox</item>
+        <item name="1">sent</item>
+        <item name="2">delivered</item>
+        <item name="3">not delivered</item>
+        <item name="4">error</item>
+        <item name="5">received</item>
+    </string-array>
+    
+</resources>

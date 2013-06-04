@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="list_bluetooth_text">Keyexchange by bluetooth</string>
+    <string name="no_bt_error_dialog_title">Error</string>
+    <string name="no_bt_error_dialog_message">Your device does not support bluetooth.</string>
+    <string name="no_bt_error_dialog_btn">OK</string>
+    
+    
+    <string name="list_bluetooth_key_exchange_progress_dialog_message_1">Generating keypair. Please wait.</string>
+    
+    
+    <string name="list_bluetooth_key_exchange_progress_dialog_message_2">Performing keyexchange to your new contact "</string>
+    <string name="list_bluetooth_key_exchange_progress_dialog_message_3">". This could take a while. Please wait.</string>
+    <string name="list_bluetooth_key_exchange_progress_dialog_btn_neg">Cancel</string>
+    
+    
+</resources>

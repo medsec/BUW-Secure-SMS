@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ListBluetoothActivity" >
+
+    <Button
+        android:id="@+id/list_bluetooth_panic_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|right"
+        android:text="@string/panic_button_text" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/list_bluetooth_label_top"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/list_bluetooth_text" />
+
+        <ListView
+            android:id="@+id/list_bluetooth_list"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="1.0" />
+    </LinearLayout>
+
+</LinearLayout>

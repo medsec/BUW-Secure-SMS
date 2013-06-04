@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="menu_name">Username</string>    
+	<string name="menu_name_summary">Please enter your login username</string>
+	<string name="menu_phone">Phone Number</string>
+	<string name="menu_phone_summary">Enter your phone number</string>
+	<string name="menu_email">Email Address</string>
+	<string name="menu_email_summary">Enter your Email address</string>
+	<string name="menu_clear">Clear SMS DB</string>
+	<string name="menu_clear_summary">Clear incoming SMS buffer on next start</string>
+	<string name="menu_autologoff_time">Auto Logoff Time</string>
+	<string name="menu_autologoff_time_summary">Enter your the time to auto logoff in seconds.</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remove_safety_question_dialog_message_part1">Do you really want do delete the contact</string>
+    <string name="remove_safety_question_dialog_message_part2">This can not be undone.</string>
+    <string name="remove_safety_question_dialog_pos_btn">Yes</string>
+    <string name="remove_safety_question_dialog_neg_btn">Cancel</string>
+    
+</resources>

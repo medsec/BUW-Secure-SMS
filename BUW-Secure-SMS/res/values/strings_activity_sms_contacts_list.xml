@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_no_contact_selected">Please, select at least one contact.</string>
+    <string name="sms_contacts_label_text">Choose Contact</string>
+    
+</resources>

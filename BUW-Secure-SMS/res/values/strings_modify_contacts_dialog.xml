@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="modify_contacts_dialog_title">Contact Management</string>
+    <string name="modify_contacts_dialog_accept_btn_text">Accept Key</string>
+    <string name="modify_contacts_dialog_decline_btn_text">Decline Key</string>
+    <string name="modify_contacts_dialog_remove_btn_text">Remove Contact</string>
+    <string name="modify_contacts_dialog_modify_btn_text">Modify Contact</string>
+    <string name="modify_contacts_dialog_add_btn_text">Add New Contact</string>
+    <string name="modify_contacts_dialog_neg_btn_text">Cancel</string>
+    
+</resources>

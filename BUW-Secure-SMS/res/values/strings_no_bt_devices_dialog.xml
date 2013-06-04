@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_bt_devices_found_dialog_message">Do you want to add one?</string>
+    <string name="no_bt_devices_found_dialog_title">There were no paired devices found.</string>
+    <string name="no_bt_devices_found_dialog_positive_btn">Yes</string>
+    <string name="no_bt_devices_found_dialog_negative_btn">No</string>
+    
+</resources>
